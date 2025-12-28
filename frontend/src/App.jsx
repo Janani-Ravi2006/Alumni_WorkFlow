@@ -16,7 +16,7 @@ import Adminpage from './components/webinar/Adminpage';
 import WebinarDetails from './components/webinar/WebinarDetails';
 import OverallWebinarReport from './components/webinar/OverallWebinarReport';
 import LoginPage from "./components/webinar/LoginPage";
-
+import './App.css';
 import MenteeRegistration from './components/mentorship/MenteeRegistration';
 import MentorRegistration from './components/mentorship/MentorRegistration';
 
